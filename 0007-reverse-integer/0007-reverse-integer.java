@@ -8,13 +8,11 @@ class Solution {
             int digit = x % 10;
             x = x / 10;
 
-            // Check positive overflow
             if (result > Integer.MAX_VALUE / 10 ||
                 (result == Integer.MAX_VALUE / 10 && digit > 7)) {
                 return 0;
             }
 
-            // Check negative overflow
             if (result < Integer.MIN_VALUE / 10 ||
                 (result == Integer.MIN_VALUE / 10 && digit < -8)) {
                 return 0;
