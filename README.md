@@ -21,6 +21,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0007-reverse-integer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
