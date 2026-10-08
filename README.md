@@ -27,6 +27,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0010-regular-expression-matching/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ My LeetCode solutions synced via LeetHub
 | [0005-longest-palindromic-substring](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0010-regular-expression-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
