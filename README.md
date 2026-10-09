@@ -54,6 +54,7 @@ My LeetCode solutions synced via LeetHub
 | [0014-longest-common-prefix](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Sliding Window
@@ -82,6 +83,7 @@ My LeetCode solutions synced via LeetHub
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Greedy
@@ -117,4 +120,5 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
