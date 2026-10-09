@@ -27,6 +27,7 @@ My LeetCode solutions synced via LeetHub
 | [0002-add-two-numbers](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,16 @@ My LeetCode solutions synced via LeetHub
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
