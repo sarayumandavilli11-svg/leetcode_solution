@@ -15,6 +15,7 @@ My LeetCode solutions synced via LeetHub
 | [0018-4sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0031-next-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ My LeetCode solutions synced via LeetHub
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0031-next-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
