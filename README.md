@@ -16,6 +16,7 @@ My LeetCode solutions synced via LeetHub
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
