@@ -62,6 +62,7 @@ My LeetCode solutions synced via LeetHub
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -90,6 +91,7 @@ My LeetCode solutions synced via LeetHub
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,20 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
