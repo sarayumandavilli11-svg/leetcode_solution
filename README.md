@@ -23,6 +23,7 @@ My LeetCode solutions synced via LeetHub
 | [0012-integer-to-roman](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ My LeetCode solutions synced via LeetHub
 | [0020-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -72,6 +74,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
