@@ -25,6 +25,7 @@ My LeetCode solutions synced via LeetHub
 | [0040-combination-sum-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ My LeetCode solutions synced via LeetHub
 | [0033-search-in-rotated-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ My LeetCode solutions synced via LeetHub
 | [0011-container-with-most-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +171,7 @@ My LeetCode solutions synced via LeetHub
 | [0015-3sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0018-4sum/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +184,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
