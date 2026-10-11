@@ -22,6 +22,7 @@ My LeetCode solutions synced via LeetHub
 | [0036-valid-sudoku](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -166,6 +167,7 @@ My LeetCode solutions synced via LeetHub
 | [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
