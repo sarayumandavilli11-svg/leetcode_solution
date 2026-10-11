@@ -18,6 +18,7 @@ My LeetCode solutions synced via LeetHub
 | [0031-next-permutation](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +185,8 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0029-divide-two-integers/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
