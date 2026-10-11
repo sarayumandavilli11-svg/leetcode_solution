@@ -19,6 +19,7 @@ My LeetCode solutions synced via LeetHub
 | [0033-search-in-rotated-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ My LeetCode solutions synced via LeetHub
 | [0013-roman-to-integer](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +196,8 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
