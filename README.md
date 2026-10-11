@@ -20,6 +20,7 @@ My LeetCode solutions synced via LeetHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ My LeetCode solutions synced via LeetHub
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@ My LeetCode solutions synced via LeetHub
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,4 +203,13 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
