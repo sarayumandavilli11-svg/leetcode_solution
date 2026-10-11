@@ -18,6 +18,7 @@ My LeetCode solutions synced via LeetHub
 | [0031-next-permutation](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ My LeetCode solutions synced via LeetHub
 | [0004-median-of-two-sorted-arrays](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
