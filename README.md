@@ -76,6 +76,7 @@ My LeetCode solutions synced via LeetHub
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0038-count-and-say/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
