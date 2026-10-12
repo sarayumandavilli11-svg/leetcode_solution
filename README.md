@@ -50,6 +50,7 @@ My LeetCode solutions synced via LeetHub
 | [0023-merge-k-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ My LeetCode solutions synced via LeetHub
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
