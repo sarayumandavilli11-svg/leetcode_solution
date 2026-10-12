@@ -25,6 +25,7 @@ My LeetCode solutions synced via LeetHub
 | [0040-combination-sum-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0051-n-queens](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -185,6 +186,7 @@ My LeetCode solutions synced via LeetHub
 | [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
