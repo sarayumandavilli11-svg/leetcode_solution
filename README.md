@@ -70,6 +70,7 @@ My LeetCode solutions synced via LeetHub
 | [0021-merge-two-sorted-lists](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0044-wildcard-matching/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ My LeetCode solutions synced via LeetHub
 | [0032-longest-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0044-wildcard-matching/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -134,6 +136,7 @@ My LeetCode solutions synced via LeetHub
 | [0022-generate-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0044-wildcard-matching/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -163,6 +166,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0044-wildcard-matching/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
