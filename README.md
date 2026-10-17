@@ -29,6 +29,7 @@ My LeetCode solutions synced via LeetHub
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ My LeetCode solutions synced via LeetHub
 | [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0041-first-missing-positive/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@ My LeetCode solutions synced via LeetHub
 | [1021-remove-outermost-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +180,7 @@ My LeetCode solutions synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
