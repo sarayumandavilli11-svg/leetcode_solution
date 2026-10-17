@@ -29,6 +29,7 @@ My LeetCode solutions synced via LeetHub
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ My LeetCode solutions synced via LeetHub
 | [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0041-first-missing-positive/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@ My LeetCode solutions synced via LeetHub
 | [0016-3sum-closest](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0018-4sum/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
