@@ -25,6 +25,7 @@ My LeetCode solutions synced via LeetHub
 | [0040-combination-sum-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -142,6 +143,7 @@ My LeetCode solutions synced via LeetHub
 | [0032-longest-valid-parentheses](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ My LeetCode solutions synced via LeetHub
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
