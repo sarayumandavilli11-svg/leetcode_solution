@@ -26,6 +26,7 @@ My LeetCode solutions synced via LeetHub
 | [0041-first-missing-positive](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -190,6 +191,7 @@ My LeetCode solutions synced via LeetHub
 | [0015-3sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Backtracking
@@ -200,6 +202,7 @@ My LeetCode solutions synced via LeetHub
 | [0037-sudoku-solver](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/sarayumandavilli11-svg/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
